@@ -1,0 +1,2 @@
+$WORK_DIR/verif/interface/clk_if.sv
+$WORK_DIR/verif/interface/dut_if.sv

@@ -1,0 +1,2 @@
+-f $WORK_DIR/rtl/rtl.list
+-f $WORK_DIR/verif/sv/ben.list

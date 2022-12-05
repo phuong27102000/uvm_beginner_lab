@@ -1,0 +1,3 @@
+Copy everyfile except README in this directory into the "lab1" directory.
+You can use function like this:
+  cp *.* ../

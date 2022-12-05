@@ -1,0 +1,10 @@
+$WORK_DIR/verif/sv/dut_if.sv
+$WORK_DIR/verif/sv/clk_if.sv
+$WORK_DIR/verif/sv/transaction_obj.sv
+$WORK_DIR/verif/sv/generator.sv
+$WORK_DIR/verif/sv/driver.sv
+$WORK_DIR/verif/sv/monitor.sv
+$WORK_DIR/verif/sv/scoreboard.sv
+$WORK_DIR/verif/sv/env.sv
+$WORK_DIR/verif/sv/test.sv
+$WORK_DIR/verif/sv/top.sv
